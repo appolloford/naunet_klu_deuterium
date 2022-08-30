@@ -1,5 +1,7 @@
 #ifndef __NAUNET_CONSTANTS_H__
 #define __NAUNET_CONSTANTS_H__
+
+// 
 // clang-format off
 
 extern const double pi;
@@ -27,6 +29,9 @@ extern const double echarge;
 
 // Boltzmann constant (erg/K)
 extern const double kerg;
+
+// reduced Planck constant
+extern const double hbar;
 
 
 
