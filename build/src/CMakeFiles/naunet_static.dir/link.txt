@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnaunet.a CMakeFiles/naunet_static.dir/naunet.cpp.o CMakeFiles/naunet_constants.dir/naunet_constants.cpp.o CMakeFiles/naunet_physics.dir/naunet_physics.cpp.o CMakeFiles/naunet_rates.dir/naunet_rates.cpp.o CMakeFiles/naunet_fex.dir/naunet_fex.cpp.o CMakeFiles/naunet_jac.dir/naunet_jac.cpp.o
+/usr/bin/ranlib libnaunet.a
