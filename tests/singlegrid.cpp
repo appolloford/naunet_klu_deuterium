@@ -69,7 +69,7 @@ int main() {
     //
     std::vector<double> timesteps;
     double time, next;
-    int nsteps = 50;  // number of steps, maximum 10046 in `timeres.dat`
+    int nsteps = 10046;  // number of steps, maximum 10046 in `timeres.dat`
 
     FILE *tfile = fopen("timeres.dat", "r");
 
